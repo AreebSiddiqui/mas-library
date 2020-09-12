@@ -1,0 +1,79 @@
+
+/* my own crazy css */
+button {
+  padding: 1px 2px;
+  margin: 5px 5px;
+  border-radius: 5px;
+  border-style: none;
+  font-size: small;
+  font-weight: 100;
+}
+
+.btn-primary {
+  background-color:#3474BA;
+  color: white;
+}
+.btn-secondary{
+  background-color: white;
+  color: #3474ba;
+}
+
+.btn-medium {
+  width: 60px; 
+  height: 30px;
+}
+
+.btn-small {
+  width: 20px; 
+  height: 20px;
+}
+
+.btn-large {
+  width: 180px; 
+  height: 75px;
+}
+
+.card-vertical {
+
+  width: 250px;
+  height: 300px;
+  margin: 10px 10px;
+  background-color:whitesmoke;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+.card-horizontal {
+  width: 350px;
+  height: 250px;
+  margin: 10px 10px;
+  background-color:whitesmoke;
+  border-radius: 5px;
+}
+
+.label-simple {
+  width: 40px;
+  padding: 10px;
+  background-color:#3474ba;
+  color:white;
+  opacity:80%;
+  font-family:'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 200;
+}
+
+.label-outlined {
+  width: fit-content;
+  padding: 10px;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  border: thin;
+  border-style: solid;
+  border-color: #b3b0b0;
+}
+
+/* Custom css */
+
+.quantity-label {
+  margin:0 35% ;
+}
